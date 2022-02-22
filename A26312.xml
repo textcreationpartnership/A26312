@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Acts for annuities reviewed and compared</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26312</idno>
+            <idno type="STC">Wing A456</idno>
+            <idno type="STC">ESTC R8315</idno>
+            <idno type="EEBO-CITATION">11644062</idno>
+            <idno type="OCLC">ocm 11644062</idno>
+            <idno type="VID">47969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47969)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Acts for annuities reviewed and compared</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:47969:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:47969:1" rendition="simple:additions"/>
+            <head>THE ACTS FOR ANNUITIES <hi>Reviewed</hi> and <hi>Compared.</hi>
+            </head>
+            <p>IT's confeſs'd the firſt <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking,</hi> and alſo this <hi>Review</hi> of theſe Acts, ſhould have had the Under<g ref="char:EOLhyphen"/>ſtanding and Pen of an Experienced and Able Lawyer, or have been the Buſineſs of an Indefati<g ref="char:EOLhyphen"/>gable Perſon we ſee often nam'd in the Votes upon the like Occaſions. It's natural to ſuppoſe the <hi>Ob<g ref="char:EOLhyphen"/>ſervations</hi> of theſe Acts were laid aſide as not worth the Reading, becauſe they appeared to come from a Perſon that has no Character for ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking:</hi> I will con<g ref="char:EOLhyphen"/>feſs, I am wanting of Learning, yet I praiſe God I can Read, and if we are commanded to Read his Laws, I think its neither Preſumption nor Treſpaſs to <hi>View</hi> and <hi>Compare</hi> thoſe of Man. And ſince I have found the <hi>Obſervations</hi> ſo much ſlighted and rejected (tho' not
+<pb n="2" facs="tcp:47969:2" rendition="simple:additions"/>reprimanded nor corrected) by thoſe I thought might have uſed Me with a little more Conſideration; I have <hi>reviewed</hi> all the five Acts which tend to <hi>Annuities,</hi> and the more I <hi>compare</hi> them, the more occaſion I find they ſhould be <hi>reviewed</hi> and taken into Conſideration by Authority; for they will evidence that either hurry of Buſineſs, or the Neceſſity of Affairs have cauſed ſo many ſeeming Inconſi<g ref="char:EOLhyphen"/>ſtences, that it's reaſonable to imagine near Ten Thouſand People are uneaſy, as to the Money they have <hi>advanced</hi> with an <hi>Engliſh</hi> Courage, for carrying on this <hi>French</hi> War, and with great <hi>Affection</hi> to the <hi>King,</hi> bringing in their Money ſo chearfully; which with ſubmiſſion, may be com<g ref="char:EOLhyphen"/>puted to Eight and Twenty Hundred Thouſand Pounds, part of the One and Thirty Hundred Thouſand Pounds, intended to be raiſed upon theſe Five <hi>Acts,</hi> which will be recited, though the Five <hi>Acts</hi> make but Two <hi>Funds,</hi> one of which is taken away, though there is now a Tendency towards Reparation.</p>
+            <p>The ſcope of this tends to the <hi>Honour</hi> and <hi>Intereſt</hi> of His <hi>Majeſty,</hi> the ſettling the <hi>Intentions</hi> and <hi>Authority</hi> of <hi>Parliament,</hi> and preſervation of the <hi>Duty</hi> and <hi>Affections</hi> of the <hi>People</hi> to the <hi>Government,</hi> and their enjoying as near as may be the Intentions of the <hi>Compact,</hi> or the Terms offer'd by <hi>Acts of Parliament,</hi> which invited them to bring in their <hi>Moneys</hi> for Defence againſt a <hi>Potent Enemy,</hi> and carrying on the <hi>War</hi> until it may conclude in an <hi>Honour<g ref="char:EOLhyphen"/>able Peace,</hi> which is hop'd to be in view or aſſured: But if not, then it's high time to ſtate the Caſe fairly to thoſe that have advanced <hi>Money,</hi> or they will uneaſily bear their Proportions of further <hi>Payments.</hi> The <hi>Mathematicians</hi> ſay, the way to ſhew a <hi>crooked Line,</hi> is to draw a <hi>ſtrait one;</hi> ſo when the ſuppoſed <hi>Deficiences</hi> or <hi>Inconſiſtences</hi> of theſe <hi>Acts</hi> are ſeen, it's not doubted but the <hi>Parliament</hi> will do what's poſſible to be done, to the <hi>Satisfaction</hi> of thoſe who
+<pb n="3" facs="tcp:47969:2" rendition="simple:additions"/>have advanced <hi>Money;</hi> but it's not a <hi>Preface</hi> or <hi>Preamble</hi> that <hi>effects</hi> the main Buſineſs, therefore to come to the <hi>Acts</hi> themſelves, I will humbly offer this Method.</p>
+            <p n="1">I. Firſt, <hi>recite</hi> the <hi>Acts</hi> diſtinctly, and the moſt material Particulars I ſuppoſe they contain.</p>
+            <p n="2">II. Secondly, <hi>compare</hi> them as they appear to me, either <hi>deficient</hi> or <hi>inconſiſtent,</hi> and in what particular, <hi>Diſcourag<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p n="3">III. Thirdly, plainly and fairly ſtate what I could con<g ref="char:EOLhyphen"/>clude an <hi>Anſwer</hi> or <hi>Objection</hi> to the mention'd <hi>Obſerva<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p n="4">IV. Fourthly, <hi>Anſwer</hi> them reſpectively, and I hope <hi>rationally.</hi>
+            </p>
+            <p n="5">V. Laſtly, <hi>Sum up</hi> all with regard to Authority ac<g ref="char:EOLhyphen"/>cording to the <hi>Juſtice</hi> intended, and the <hi>Property</hi> expected; without charging this Addreſs with Particulars, why I might have hoped for better <hi>Succeſs</hi> from the firſt <hi>Obſer<g ref="char:EOLhyphen"/>vations,</hi> which I doubt not will be brought into Counte<g ref="char:EOLhyphen"/>nance, if the Honourable <hi>Houſe</hi> think fit to take this <hi>Review</hi> into their Judicious Conſideration, and allow the Intentions to be for a <hi>Publick Good;</hi> if the Recital and References do not appear clear in this Paper, upon intimation where the Defect is, I doubt not of clearing it upon Command.</p>
+            <p>
+               <note place="margin">The Firſt Act for Annuities is in the 4th. Year of their Ma<g ref="char:EOLhyphen"/>jeſties King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </note>By the Firſt Act for Annuities certain Rates and Duties of <hi>Additional Exciſe</hi> up<g ref="char:EOLhyphen"/>on on <hi>Beer, Ale</hi> and other <hi>Liquors,</hi> were gran<g ref="char:EOLunhyphen"/>ted for Ninety Nine Years, as a <hi>Fund</hi> for raiſing <hi>Ten Hundred Thouſand Pounds</hi> towards carrying on the War againſt <hi>France,</hi> and for ſecuring certain <hi>Re<g ref="char:EOLhyphen"/>compences</hi> and <hi>Advantages</hi> to ſeveral Perſons upon <hi>Survi<g ref="char:EOLhyphen"/>vorſhip;</hi> and alſo certain <hi>Annuities</hi> of 14 <abbr>l.</abbr> 
+               <hi>per Annum</hi> for each ſingle Life, upon advancing One Hundred Pounds:
+<pb n="4" facs="tcp:47969:3" rendition="simple:additions"/>In this Act, <hi>Folio</hi> 215. are two <hi>Limi<g ref="char:EOLhyphen"/>tations</hi> on this <hi>Fund;</hi>
+               <note place="margin">
+                  <hi>Folio</hi> 215.</note> Firſt a Sum not exceeding <hi>One Hundred Thouſand Pounds,</hi> ſhall be ſet apart for the <hi>Recompences,</hi> until the Year 1700. and after that time but 70000. <abbr>
+                  <hi>l.</hi>
+               </abbr> for the like <hi>Re<g ref="char:EOLhyphen"/>compences.</hi> The <hi>Surplus</hi> will admit of a Diſcourſe at the end of this <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking,</hi> which words <hi>Surplus</hi> and <hi>Sur<g ref="char:EOLhyphen"/>pluſage,</hi> next to looking into theſe <hi>Acts</hi> for the ſake of a <hi>Friend</hi> and a <hi>Minor,</hi> was the Cauſe why I took more notice of them than I uſed to do of Acts; for in the laſt Clauſe of the Firſt and Second <hi>Act</hi> for <hi>Annuities</hi> there will be found ſeemingly very odd <hi>Reſtrictions</hi> or <hi>Limi<g ref="char:EOLhyphen"/>tations</hi> of a Gift, as will be obſerved in the ſequel.</p>
+            <p>
+               <note place="margin">The Second Act is in th 5th Year of their Majeſties Reign.</note>The Sum of Ten Hundred Thouſand Pounds not being fully rais'd by the fore<g ref="char:EOLhyphen"/>ſaid <hi>Act,</hi> occaſion'd this other <hi>Act</hi> for ſupplying the <hi>Deficiency</hi> of the former; and this Act for <hi>Annuities</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for One Life only, it's ſup<g ref="char:EOLhyphen"/>pos'd was becauſe People were readier to advance their Money for 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for a <hi>ſingle Life,</hi> than come for Dividends upon <hi>Survivorſhip,</hi> and yet both came near the <hi>Million;</hi>
+               <note place="margin">Folio <hi>96.</hi> of this Act ſays, <hi>881493 <abbr>l.</abbr> 14<abbr>s.</abbr> 2<abbr>d.</abbr>
+                  </hi> was rais'd by the Firſt Act.</note> for in <hi>Folio</hi> 96. of this Act, the Sum of <hi>Eight Hundred Eighty One Thouſand Four Hun<g ref="char:EOLhyphen"/>dred Ninety Three Pounds Fourteen Shil<g ref="char:EOLhyphen"/>lings and Two Pence</hi> was raiſed by the Firſt Act.</p>
+            <p>
+               <note place="margin">The Third Act for <hi>Annuities</hi> is part of an Act <hi>Anno Quinto &amp; Sexto Gulielmi &amp; Mariae.</hi>
+               </note>
+               <hi>Anno Quinto &amp; Sexto Gulielmi &amp; Mariae,</hi> paſs'd an Act for granting a Duty upon <hi>Tonage of Ships</hi> and <hi>Veſſels,</hi> and upon <hi>Beer, Ale,</hi> and other <hi>Liquors</hi> (which <hi>Beer, Ale, &amp;c.</hi> are much the ſame Words in the Act <hi>Quinto Gulielmi &amp; Mariae,</hi> upon <hi>Additional Exciſe, &amp;c.</hi>
+               <pb n="5" facs="tcp:47969:3" rendition="simple:additions"/>for raiſing the Sum of One Million by <hi>Survivorſhip</hi> and <hi>Annuities</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for ſingle Life) and upon this Act of <hi>Tonage, &amp;c.</hi> was to be raiſed Fifteen Hun<g ref="char:EOLhyphen"/>dred Thouſand Pounds, of which, Three Hundred Thou<g ref="char:EOLhyphen"/>ſand Pounds were to be raiſed on theſe Recompences, <hi>viz.</hi> 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for a ſingle Life, 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for Two Lives, <note place="margin">Annuities by this Act, <hi>fol. 356, 357.</hi>
+               </note> 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Ann.</hi> for Three Lives, and the Survivor of them; <hi>Fol.</hi> 356, 357.</p>
+            <p>
+               <note place="margin">The 4th. Act. <hi>Ann. Sexto &amp; Sept. Guli<g ref="char:EOLhyphen"/>elmi Regis,</hi> is for raiſing <hi>618420 <abbr>l.</abbr>
+                  </hi> by Sale of Reverſions of Lives.</note>This <hi>Fourth</hi> Act, <hi>Anno Sexto &amp; Septi<g ref="char:EOLhyphen"/>mo Gulielmi Regis,</hi> was paſs'd for Raiſing a further Supply of <hi>Six Hundred Eighteen Thouſand Four Hundred Twenty Pounds and Six Pence</hi> (for carrying on the War againſt <hi>France</hi>) by purchaſing the Term over on the ſame <hi>Funds,</hi> or converting the ſaid <hi>Lives</hi> into a <hi>Term certain,</hi> for 96 Years of the 99. then remaining and unexpir'd; each <hi>Nominee</hi> for Life paying for the ſame Four Years and a half Purchaſe, or Sixty Three Pounds; and if ſuch <hi>No<g ref="char:EOLhyphen"/>minee</hi> did not purchaſe by the time therein limited, then any other Perſon, Native or Foreigner, might purchaſe the Remainder of the <hi>Term certain,</hi> after the death of the <hi>No<g ref="char:EOLhyphen"/>minee,</hi> paying Five Years Purchaſe, <hi>i. e.</hi> Seventy Pounds within a time therein alſo limited. Thô this Act recites <hi>Folio</hi> 247. that upon the Acts for <hi>Additional Exciſe</hi> and <hi>Tonage of Ships</hi> and <hi>Veſſels,</hi>
+               <note place="margin">
+                  <hi>Folio</hi> 246. 247.</note> there was paid into the Exchequer Thirteen Hundred Thouſand Pounds upon <hi>Survivorſhips</hi> and <hi>Annuities</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum;</hi> and that the major part (to wit) the Sum of Nine Hundred Eighty one Thouſand Six Hundred and Nine Pounds One Shilling and Nine Pence, was upon the <hi>Annuities</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Ann.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:47969:4" rendition="simple:additions"/>
+And in this Act <hi>Folio</hi> 250. it's ſaid, that he who purchaſes the <hi>remaining Term</hi> of 96 after a Life in being, <note place="margin">
+                  <hi>Folio</hi> 250.</note> or turns his Life into Years, or a <hi>Term certain,</hi> ſhall have, receive, and enjoy, and ſhall have a good, ſure, and abſolute Eſtate and Intereſt of and in an <hi>Annuity,</hi> yearly Rent or Pay<g ref="char:EOLhyphen"/>ment, equal by the Year to the <hi>Annuity,</hi> as he, ſhe, or they had before for <hi>One Life,</hi> for and during the ſaid whole Term of Ninety Six Years, to be paid and paya<g ref="char:EOLhyphen"/>ble out of ſome of the <hi>Funds</hi> in the ſaid Acts mentioned (that is to ſay, out of ſuch of them reſpectively, as the <hi>Annuity</hi> for Life, was by the Act charged upon) and to be paid at the Four moſt uſual Feaſts, <hi>&amp;c.</hi>
+            </p>
+            <p>This <hi>Fifth</hi> Act, <hi>Anno Septimo Gulielmi Regis,</hi>
+               <note place="margin">
+                  <hi>The 5th Act is</hi> Anno Septimo Gu<g ref="char:EOLhyphen"/>lielmi Regis.</note> was paſs'd for enlarging only the Time for purchaſing on the ſame Terms above mention'd in the <hi>Fourth</hi> Act; for it is ſaid in <hi>Folio</hi> 25. of this Act, <note place="margin">
+                  <hi>Folio</hi> 25.</note> that the <hi>Fourth</hi> Act did not raiſe above Two Hundred Thirty Five Thouſand of the Six Hundred Eighteen Thouſand Four Hundred and Twenty Pounds.</p>
+            <p>Thus having recited all the Five Acts wherein <hi>Annuities</hi> are granted, and having taken notice I hope of the moſt material Paragraphs both for <hi>Funds,</hi> and the <hi>Sum</hi> rais'd according to my firſt Propoſition;</p>
+            <p>I come with Submiſſion to the Second Undertaking, that is, to <hi>compare</hi> them as they appear to be <hi>inconſiſtent,</hi> and with ſome Demonſtration why there is a <hi>Diſcourage<g ref="char:EOLhyphen"/>ment</hi> and a <hi>Deficiency.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:47969:4" rendition="simple:additions"/>
+In the firſt place it's apparent the <hi>Fourth</hi> Act for Sale of the <hi>Term over,</hi> or converting the Lives in being, into a Term for 96 Years (of the 99) then remaining and unexpired, did not raiſe above Two Hundred Thirty Five Thouſand Nine Hundred Fifty One Pounds, of Six Hundred Eighteen Thouſand Four Hundred and Twenty Pounds intended to be raiſed by this Act; nor did the <hi>Fifth</hi> Act enlarging the time for purchaſing the ſame on the Terms before mentioned much advance the former Sum; for it's diſcours'd both Acts have not raiſed much above One Moiety of the ſaid 618420 <abbr>
+                  <hi>l.</hi>
+               </abbr> I having nei<g ref="char:EOLhyphen"/>ther Favour nor Countenance ſufficient, nor any particu<g ref="char:EOLhyphen"/>lar Acquaintance with the Officers that keep theſe Books, cannot pretend to diſtinct Sums, further than I find them in the Acts, and as I have recited them, ſo that I cannot ſay exactly, but can come near a Computation how much was rais'd by <hi>Survivorſhip,</hi> and how much by <hi>Annuities</hi> upon 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for a ſingle Life on the Fund of <hi>Additional Exciſe, (viz.)</hi> about One Millon, and Three Hundred Thouſand Pounds upon the Fund of Tonage might be raiſed by Annuities of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for One Life, 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> for Two Lives, and 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Ann.</hi> for Three Lives; for the diſtinction of which, thoſe that have Authority may, without doubt, have Satisfaction in the Books of the <hi>Exchequer</hi> kept for that purpoſe.</p>
+            <p>My preſent Deſign is to demonſtrate why the 618420 <abbr>
+                  <hi>l.</hi>
+               </abbr> is not fully rais'd, which is prevented partly for want of a Proviſion in the Two laſt Acts, for the diſpoſing of the remainder of the <hi>Term certain,</hi> where the ſeveral <hi>Nomi<g ref="char:EOLhyphen"/>nees</hi> deceaſed, nor others in their Default had not pur<g ref="char:EOLhyphen"/>chaſed the ſaid <hi>Term certain</hi> during the Life of ſuch <hi>Nomi<g ref="char:EOLhyphen"/>nees;</hi> for by the ſaid Acts there muſt be a <hi>Nominee</hi> in
+<pb n="8" facs="tcp:47969:5" rendition="simple:additions"/>being, as a Foundation to purchaſe on, as is more at large in the Paper of Obſervations, which if dark in any par<g ref="char:EOLhyphen"/>ticular, may be clear'd by a ſhort Diſcourſe, if admitted or required; And alſo that if your Honours think fit to look into the Books, it will appear 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> (or more) might be rais'd thereby.</p>
+            <p>The Second Obſervation why the 618420 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> is not rais'd by a Moiety, is, becauſe no Man can ex<g ref="char:EOLhyphen"/>pect that Five Years would be given by Native or Fo<g ref="char:EOLhyphen"/>reigner for the remaining Years of 96. after Three Lives or Survivorſhip; And as appears by the Firſt and Se<g ref="char:EOLhyphen"/>cond Acts for <hi>Annuities,</hi> the Third part of the Million rais'd upon the Fund of <hi>Additional Exciſe,</hi> was rais'd by <hi>Survivorſhip;</hi> for the Act <hi>Anno Quint Gulielmi &amp; Ma<g ref="char:EOLhyphen"/>riae, Folio</hi> 96. ſays, The Sum of 881493 <abbr>
+                  <hi>l.</hi>
+               </abbr> 14 <abbr>
+                  <hi>s.</hi>
+               </abbr> 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> was raiſed by <hi>Survivorſhip</hi> and <hi>Annuities</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum.</hi>
+            </p>
+            <p>If any one ſhall ſay there are more <hi>Annuities</hi> upon the Tonage, I allow it; But that will not help this Argu<g ref="char:EOLhyphen"/>ment at all; for thoſe are for One, Two, or Three Lives, which, with Submiſſion, are fear'd to have a weak Security. I ſhall not meddle with the 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> which was expected to be raiſed upon that <hi>Fund,</hi> I ſhall only make a little part of this Diſcourſe upon the 300000 <abbr>
+                  <hi>l.</hi>
+               </abbr> which is allow'd to be rais'd by <hi>Annuities,</hi> ratable for One, Two, or Three Lives; for the Act <hi>Sexto &amp; Septimo, Folio</hi> 246, 247. as above, ſays, that upon the Acts for <hi>Additional Exciſe</hi> and <hi>Tonage of Ships,</hi> was paid in Thir<g ref="char:EOLhyphen"/>teen Hundred Thouſand Pounds upon <hi>Survivorſhips</hi> and <hi>Annuities;</hi> ſo that, <hi>quatenus, Annuities</hi> for 300000 <abbr>
+                  <hi>l.</hi>
+               </abbr> up<g ref="char:EOLhyphen"/>on that Fund of <hi>Tonage</hi> are abſolutely before the Parlia<g ref="char:EOLhyphen"/>ment for a very deep and ſerious Conſideration; And if
+<pb n="9" facs="tcp:47969:5" rendition="simple:additions"/>any have purchaſed a <hi>Remainder</hi> of 96 Years after a <hi>Life,</hi> he is the more to be look'd upon as a hearty Man to the Government, that <hi>Fund</hi> being abſolutely taken away, if it was effectual. And this Help in proſpect upon <hi>Leather</hi> for Three Years, is but a ſhort Term for Three Lives; ſo that what is rais'd of 618420 <abbr>
+                  <hi>l.</hi>
+               </abbr> muſt be ſe<g ref="char:EOLhyphen"/>cured by the Fund of <hi>Additional Exciſe;</hi> now being re<g ref="char:EOLhyphen"/>duced to that, we ſhall not have much Difficulty to exa<g ref="char:EOLhyphen"/>min how the Caſe may ſtand for a Million to be com<g ref="char:EOLhyphen"/>penſated at preſent to thoſe upon <hi>Survivorship</hi> and <hi>Annui<g ref="char:EOLhyphen"/>ties</hi> of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> and then the Purchaſers of the <hi>Term over</hi> of 96 Years as above: Firſt allow this Fund of <hi>Additional Exciſe</hi> does afford One Hundred Thouſand Pounds <hi>per Annum</hi> (which by ſome is doubted) yet that will not afford Intereſt to <hi>Survivors,</hi> and 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Ann.</hi> alſo: Then what muſt we ſay or do, af<g ref="char:EOLhyphen"/>ter the 24th day of <hi>June</hi> 1700? <note place="margin">Anno Quarto, fo<g ref="char:EOLhyphen"/>lio <hi>215.</hi>
+               </note> For af<g ref="char:EOLhyphen"/>ter that time only 70000 <abbr>
+                  <hi>l.</hi>
+               </abbr> is to be ſet apart for <hi>Recompences;</hi> all the ſhift or help I can find is, that by that time a Seventh part of the <hi>Survivorſhips may fall:</hi> Allow it may, what will it help toward the <hi>Recompences,</hi> that's more a <hi>Surplus</hi> than the Reverſion of the <hi>Nominees</hi> dead unpurchaſed? Both which, if they are determin'd to be <hi>Surpluſages,</hi> are ſecur'd by the laſt Clauſe of the Two firſt Acts, with what ſhall be raiſed (if any be) more than One Hundred Thouſand Pounds <hi>per Ann.</hi> A Peny lapt about with a Ball of Pack-thread cannot be ſafer.</p>
+            <p>This does ſtartle a little the Purchaſe of the <hi>Term over;</hi> A Clauſe in the Firſt Act ſays, <hi>Fol.</hi> 221. that no Contributors to the Million ſhall advance any further Sum, <note place="margin">
+                  <hi>Folio</hi> 221.</note> upon the
+<pb n="10" facs="tcp:47969:6" rendition="simple:additions"/>
+               <hi>Terms</hi> and <hi>Advantages;</hi> ſo that if the old Jealouſie conti<g ref="char:EOLhyphen"/>nues of Acts of <hi>Reſumption,</hi> it may be fear'd this Clauſe may be laid hold of to bar <hi>Reverſions;</hi> with this is con<g ref="char:EOLhyphen"/>cluded the ſecond Propoſition.</p>
+            <p>The <hi>Third</hi> Undertaking was to ſtate plainly and fairly what was concluded an Anſwer or Objection to the fore<g ref="char:EOLhyphen"/>mention'd <hi>Obſervations</hi> upon theſe Acts.</p>
+            <p>Not to make bad worſe, it's to be explained, that theſe <hi>Obſervations</hi> never advanced, nor never were countenan<g ref="char:EOLhyphen"/>ced ſo far as to appear by a Motion in the Honourable <hi>Houſe of Commons;</hi> otherwiſe than to ſome particular Perſons, to whom it was confeſs'd, that if the Defi<g ref="char:EOLhyphen"/>ciency of <hi>Nominees</hi> dead, and the <hi>Term certain</hi> un<g ref="char:EOLhyphen"/>purchaſed was made up, it would not amount to Millions, or Hundreds of Thouſands, yet I adventur'd to ſay, the Wind-Mill might grind Twenty Thouſand Pounds good Griſt (or more) if People would come in as heartily as formerly: To this was replyed, That it was not worth the troubling the <hi>Houſe;</hi> then was re<g ref="char:EOLhyphen"/>joyned the Conſideration of the Methods of <hi>Parliament,</hi> which are to be regarded next to the revering the ſacred Writ, the Conſequence of relaxing, ſlighting or breaking of them will certainly be the Cracking or Breaking of Credit; But there was not time for this, another <hi>Ob<g ref="char:EOLhyphen"/>jection</hi> paſſing ſuddenly upon me, that the Supplying the <hi>Nominees</hi> dead according to the Hinge or laſt Propoſi<g ref="char:EOLhyphen"/>tion in the <hi>Obſervations,</hi> would be a Leſſening of <hi>Credit,</hi> and Diminution of the Security to the <hi>Nominees</hi> in being, they expecting that what is faln ſhould be aſſiſting to their <hi>Recompences;</hi> which, if allow'd, confirms a common Saying we have in <hi>England,</hi> of <hi>robbing</hi> Peter <hi>to pay</hi> Paul; it's taking away from the <hi>King</hi> to pleaſe the <hi>People,</hi> which
+<pb n="11" facs="tcp:47969:6" rendition="simple:additions"/>is as much a Chimera as the Wind-Mill; for all the En<g ref="char:EOLhyphen"/>deavours of Credit at preſent will never exceed Ready Money; and if the remarkable laſt Clauſe in the Two firſt Acts ſtands good, and calls what's faln a <hi>Surplus,</hi> then this ſweet Morſel is taken out of the Mouths of thoſe that gape for it as ſome Suſtenance. But with Sub<g ref="char:EOLhyphen"/>miſſion to better Judgments, or Determination of Au<g ref="char:EOLunhyphen"/>thority (who may declare it as they think fit, with the Conſent of his Majeſty) as the Caſe ſtands I beg Pardon, if I am reſty in my Opinion, that what is faln is the Kings; yet I confeſs, if that be conſented to, then the Intentions of the Parliament for raiſing 618420 <abbr>
+                  <hi>l.</hi>
+               </abbr> can<g ref="char:EOLhyphen"/>not be accompliſhed; therefore a Review and further Ex<g ref="char:EOLhyphen"/>planation is requiſite: But not to make ſo long a Di<g ref="char:EOLhyphen"/>greſſion as to forget the Anſwers before mention'd, I find ſeveral worthy Members of the Honourable <hi>Houſe of Commons,</hi> whom I have had the Favour to diſcourſe with, fixt in the Perſuaſion, that to raiſe this Rent in Arrear by the Method fore mention'd, is a Leſſening the <hi>Security</hi> which the <hi>Nominees</hi> in being expect, and alſo of <hi>Credit,</hi> which <hi>Credit</hi> being now an eminent <hi>Topick,</hi> I ſhall end this my <hi>Third,</hi> and I think my <hi>Fourth</hi> Undertaking is concluded, if not, I ſhall bring ſomething more in the ſummary Diſcourſe, which ſhall begin upon <hi>Credit.</hi>
+            </p>
+            <p>CREDIT I think I may make bold to ſay ſomething to, and if it were not too light for the Honourable Houſe I addreſs to, I would aim at a Stanza to ſing her Praiſes; for I have all along liv'd by her Favour; Though I was born to a private Gentleman's ſhare of Land, yet it came to me under ſuch Circumſtances, that it was only as a Bulwark (if at any time ſhe was wind ſhaken) to defend <hi>Credit;</hi> for I have been all my Life long (and ſo was
+<pb n="12" facs="tcp:47969:7" rendition="simple:additions"/>my Father many Years before) a Borrower of Money, which made us diſtinguiſh between <hi>Credit</hi> and <hi>Security;</hi> For where my Word, Note, or my own Bond was taken, I declared and concluded I had there <hi>Credit</hi> or <hi>Reputation,</hi> that Perſon was clear of Diffidence or Jealouſie; But when <hi>Pawns,</hi> double or treble <hi>Bondſmen, Statutes, Judg<g ref="char:EOLhyphen"/>ments</hi> or <hi>Mortgages</hi> were required, there I thought I was no way beholding, and where ever I met the Perſon, I was in no manner obliged to be grateful to him, but con<g ref="char:EOLhyphen"/>cluded that are payment at his time, was as Advantageous to him, as Convenient to me: <hi>Credit</hi> in the practical part, generally lies amongſt Traders, that deliver Goods upon Word, Note or Letter of Correſpondence; and if I have not quite forgot my <hi>Grammar,</hi> the Latin word is <hi>credo</hi> I believe, or <hi>fides</hi> faith, <hi>fides à fio,</hi> ſomething to be made or done in proceſs of time; if I take or receive any Goods, Horſe or Money without Terms, I muſt in Equity pay a Value according as Neighbours or a Jury ſhall adjudge; but if I agree a Sum, and Day of Payment, until that Day I have <hi>Credit;</hi> he puts Faith or Belief to exiſtence, that I will pay accordingly that Day, if I do not, I forfeit and looſe my <hi>Credit</hi> in the common Acceptation; when the <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> was in the beſt Reputation, what was it more than <hi>Credit?</hi> For a <hi>Talley</hi> was but a <hi>memorandum</hi> that you may find in the Office ſuch a thing, which is a Witneſs ſo and ſo, as a Duplicate that I take the <hi>King's</hi> Honour, which is, or ought to be, as good as any Lawyer's Forms in Parchment, or Words cut in Marble, and neither <hi>Government</hi> nor <hi>People</hi> will be eaſy till that's in faſhion again. For through the Body Politick by means of the <hi>Exchequer,</hi> and the Body Natural by help of the Liver, Money and Blood flows in<g ref="char:EOLhyphen"/>ceſſantly, unleſs there be a Stagnation, which is now much more to be feared, than a <hi>Pluriſie,</hi> for the War would cure
+<pb n="13" facs="tcp:47969:7" rendition="simple:additions"/>both of that; I wiſh the true Cauſe may be found our, and a proper and ſeaſonable help, I had rather the Ap<g ref="char:EOLhyphen"/>plication work'd with <hi>Affection</hi> than <hi>Force:</hi> We have found that in all the ways and means for raiſing of Taxes (except upon Land) <hi>Compact</hi> has brought in more ready Money than <hi>Compulſion,</hi> becauſe that unites the People to the Government, the other alienates them from it.</p>
+            <p>I have nothing to ſay to the Expedients in hand touching Banks in imitation of <hi>Venice, Genoa</hi> and <hi>Amſterdam,</hi> (to which I wiſh good ſpeed) having already aſſerted the Honour of the <hi>Exchequer.</hi>
+            </p>
+            <p>Having come ſomething near the Definition of Credit, and traced her accepted Steps of Living and Character, which was of late Years ſo good, that ſhe was the Dar<g ref="char:EOLhyphen"/>ling of every Perſon in the City and Country, until ſhe was blown up by the Jeſuits Powder (the ſhutting up the <hi>Exchequer</hi> (which was the Advice of a Popiſh Lord, for which he had a White Staff) who wounded her ſo very deep, ſhe never rightly recovered her former Reputation or State of Innocency.</p>
+            <p>The laſt of this Diſcourſe ſhall be that ſeveral <hi>Reverſions</hi> after a <hi>Life</hi> might not be bought, becauſe few People are deſirous of <hi>Reverſions,</hi> but if there be a Clauſe for Sale of them at preſent the Diſpoſition of the People may be clearly diſcovered, and ſeveral Reaſons have been, and may be adduced (though not fit for Print) to ſhew that this way of Annuities is Advantageous to King and People. And if they do not bring in ready Money as ſoon as any means that has or can be propoſed upon <hi>Loans</hi> or <hi>Compact,</hi> and probably much ſooner than the Bill in hand, for a
+<pb n="14" facs="tcp:47969:8" rendition="simple:additions"/>further enlarging the time for Sale of Reverſions. And if ready Money does not ſtep in, the Soldier's Word is, <hi>As you were.</hi> And if in all this Pains I have done no good, I hope I have done no hurt; yet if I cannot help to bring in Money, I hope I may not be denied a Motion for Removing that which ſtands as a Record reflecting upon Honor in the laſt Paragraphs of the two firſt Acts, eſpecially the laſt Paragraph <hi>Anno Quinto Gulielmi &amp; Ma<g ref="char:EOLhyphen"/>riae,</hi> which is like a reiterated Care to an Omen, one would think; for I believe the word <hi>Surplus</hi> or <hi>Surplu<g ref="char:EOLhyphen"/>sage</hi> was never thought on ſince.</p>
+            <p>But having made this Diſcourſe much longer than I in<g ref="char:EOLhyphen"/>tended at firſt ſetting Pen to Paper, begging Pardon for things which may look like digreſſion at the firſt Read<g ref="char:EOLhyphen"/>ing, yet doubting whether any Perſons will give themſelves the trouble of a ſecond View, I ſhall trouble them with no longer Apology; but if any Member of the Ho<g ref="char:EOLhyphen"/>nourable <hi>Houſe</hi> ſhall think any part of this Eſcroul worth his taking notice of, he will be as charitable as he that aſ<g ref="char:EOLhyphen"/>ſiſted the poor Man at the Pool of <hi>Betheſda,</hi> and if there<g ref="char:EOLhyphen"/>upon he commands me to attend him, I ſhall more ſully demonſtrate, that I am a ſincere lover of the Conſtitution of our Laws both Eccleſiaſtical and Civil, and one that has endeavoured their Preſervation both in Court and Coun<g ref="char:EOLhyphen"/>trey, and ſomething in a Military way, tho' all's forgotten; and I deſpair of doing any thing that may bring them on the Stage, unleſs this that appears like <hi>Witherington</hi> on his Stumps; Time and Diſcouragements having dull'd my Brain, and in ſome meaſure enervated me, and Purſe and Credit being both ſick, it's time to retire; and if I can get off with Safety, I renew my Lord <hi>Shaftsbury</hi>'s Doctrine of falling Eaſy, yet with good Manners, in ſubſcribing to the favour<g ref="char:EOLhyphen"/>able Reader,</p>
+            <closer>
+               <signed>Your moſt humble Servant.</signed>
+            </closer>
+            <postscript>
+               <pb n="15" facs="tcp:47969:8" rendition="simple:additions"/>
+               <p>All this Diſcourſe may be drawn into a ſhort Clauſe con<g ref="char:EOLhyphen"/>ſiſting of two Parts; <hi>Firſt,</hi> Repealing three Clauſes in the firſt Act, <hi>Folio</hi> 215. where 100000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> is reduced to 70000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in the Year 1700. The Second in <hi>Folio</hi> 221. that no Con<g ref="char:EOLhyphen"/>tributors ſhall advance any further Sum upon the Terms and Advantages aforeſaid, and then the laſt Clauſe of this and the ſecond Act, relating to Surpluſage.</p>
+               <p>The ſecond Part of the Clauſe to be made for raiſing what was intended by the fourth and fifth Act, according to the late Propoſition in the Obſervations, for diſpoſing of the Intereſt of Nominees deceaſed, or what other Method ſhall be beſt liking to his Majeſty, by the Advice of His Great Council now Aſſembled. This had been humbly offer'd ſooner, but that the World ſhould not ſay, I had di<g ref="char:EOLhyphen"/>ſturbed the King's and Nation's Greater Affairs for my own Intereſt and Satisfaction.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
